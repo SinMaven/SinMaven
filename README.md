@@ -124,7 +124,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Moayed_ellah&theme=react&show_icons=true&include_all_commits=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah)](https://github.com/anuraghazra/github-readme-stats)
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moayed_ellah&theme=react&layout=compact" />
 </p>
 

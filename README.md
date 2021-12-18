@@ -16,7 +16,6 @@
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208061%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -129,5 +128,3 @@ HTML                     2 repos             █░░░░░░░░░░�
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
 
-
-<style>h1{color:orange;}</style>

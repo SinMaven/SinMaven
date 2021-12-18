@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm Moayed </h1>
+<h1 align="center">Hey! 👋 I'm Moayed <img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/Main/69-eye-outline.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**

@@ -87,10 +87,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Parply/Parply/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 

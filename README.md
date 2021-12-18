@@ -11,15 +11,88 @@
 
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208061%20lines%20of%20code-blue)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
-  
-</div>
+**🐱 My Github Data** 
+
+> 🏆 357 Contributions in the Year 2020
+ > 
+> 📦 147.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+🌆 Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.93% 
+🌃 Evening    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+🌙 Night      137 commits    ██████████░░░░░░░░░░░░░░░   42.41%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Thursday     80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
+Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Python                   16 hrs 14 mins      ███████████████████░░░░░░   78.85% 
+Other                    3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
+VimL                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+
+🔥 Editors: 
+Vim                      16 hrs 59 mins      ████████████████████░░░░░   82.5% 
+Zsh                      3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.5%
+
+🐱‍💻 Projects: 
+High-Frequency-Crypto    16 hrs 20 mins      ███████████████████░░░░░░   79.29% 
+Unknown Project          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Terminal                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+Arbitrage-Crypto         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+
+💻 Operating System: 
+Linux                    20 hrs 36 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   35.48% 
+C++                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+R                        5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Parply/Parply/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
 
 <h3 align="center">Languages and Tools:</h3>
 

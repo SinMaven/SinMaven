@@ -16,20 +16,7 @@
 - **I like reading, learning Japanese and playin video games**
 
 <!--START_SECTION:waka-->
-
-
-**My Github Data** 
-
-> 357 Contributions in the Year 2020
- > 
-> 147.2 kB Used in Github's Storage 
- > 
-> Opted to Hire
- > 
-> 33 Public Repositories
- > 
-> 3 Private Repositories 
-
+ 
 <p align="center">
 <img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/ab89f2afe7e269fcc5c17ab8de149df0a65156a5/45-clock-time-outline.gif" width="100px" height="100px">
 </p>

@@ -1,10 +1,4 @@
-<script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
-<h1 align="center">Hey! 👋 I'm Moayed <lord-icon
-    src="https://cdn.lordicon.com/tyounuzx.json"
-    trigger="loop"
-    colors="primary:#121331,secondary:#08a88a"
-    style="width:250px;height:250px">
-</lord-icon></h1>
+<h1 align="center">Hey! 👋 I'm Moayed </h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**

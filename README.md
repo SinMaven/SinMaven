@@ -96,6 +96,9 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+<p align="center">
+<img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/ecd0dbb040787fcc141b18efd30260a94f77af36/1144-woodpecker-outline.gif" width="100px" height="100px">
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 

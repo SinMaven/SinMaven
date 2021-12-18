@@ -7,13 +7,13 @@
              
 - I’m currently working on my **Javascript library**
 
-- I’m currently learning **Python, Ruby and React**
+- learning **Python, Ruby and React**
 
-- I’m looking to collaborate on **front-end and back-end projects**
+- I’m looking to collaborate on **Game development or software engineering**
 
-- How to reach me: **moayedellahcode@gmail.com**
+- Email: **moayedellahcode@gmail.com**
 
-- What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- **I like reading, learning Japanese and playin video games**
 
 <!--START_SECTION:waka-->
 

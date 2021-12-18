@@ -93,7 +93,7 @@ HTML                     2 repos             █░░░░░░░░░░�
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center">&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Moayed-Ellah&theme=juicyfresh&no-bg=true" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah&show_icons=true&theme=dark&count_private=true)

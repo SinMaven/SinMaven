@@ -101,8 +101,8 @@ HTML                     2 repos             █░░░░░░░░░░�
 <img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/ecd0dbb040787fcc141b18efd30260a94f77af36/1144-woodpecker-outline.gif" width="100px" height="100px">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moayed-ellah&layout=compact&theme=dark)](https://github.com/Moayed-ellah/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah&show_icons=true&theme=dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moayed-ellah&layout=compact&theme=dark&count_private=true)](https://github.com/Moayed-ellah/github-readme-stats)
 
 
 

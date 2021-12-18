@@ -1,4 +1,4 @@
-<img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/Main/69-eye-outline.gif" width="100px" height="100px">
+<img align="center" src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/Main/69-eye-outline.gif" width="100px" height="100px">
 <h1 align="center">Hey! 👋 I'm Moayed</h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 

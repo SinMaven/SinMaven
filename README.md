@@ -16,7 +16,7 @@
 - **I like reading, learning Japanese and playin video games**
 
 <!--START_SECTION:waka-->
- 
+ <hr>
 <p align="center">
 <img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/ab89f2afe7e269fcc5c17ab8de149df0a65156a5/45-clock-time-outline.gif" width="100px" height="100px">
 </p>
@@ -82,16 +82,16 @@ HTML                     2 repos             █░░░░░░░░░░�
 ```
 
 
-
+<hr>
 <!--END_SECTION:waka-->
 <p align="center">
 <img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/ecd0dbb040787fcc141b18efd30260a94f77af36/1144-woodpecker-outline.gif" width="100px" height="100px">
 </p>
 
- <hr>
+
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<hr>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah&show_icons=true&theme=dark&count_private=true)

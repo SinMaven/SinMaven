@@ -98,7 +98,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah&show_icons=true&theme=dark&count_private=true)
 [![](https://github-readme-stats.vercel.app/api?username=Moayed-Ellah&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Moayed-Ellah)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Moayed-Ellah&theme=dark)](https://github.com/Moayed-Ellah)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moayed-ellah1)](https://github.com/Moayed-ellah/github-readme-streak-stats)
 
 
 

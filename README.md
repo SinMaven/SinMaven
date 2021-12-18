@@ -123,8 +123,8 @@ HTML                     2 repos             █░░░░░░░░░░�
   </a>
 </p>
 
-<p align= "center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moayed-ellah&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 

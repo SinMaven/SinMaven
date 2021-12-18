@@ -125,6 +125,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 <p align= "center">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah)](https://github.com/anuraghazra/github-readme-stats)
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moayed_ellah&theme=react&layout=compact" />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moayed-ellah&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 

@@ -130,4 +130,4 @@ HTML                     2 repos             █░░░░░░░░░░�
 </p>
 
 
-<style>h1{color:#FFB500;}</style>
+<style>h1{color:orange;}</style>

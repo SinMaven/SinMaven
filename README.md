@@ -2,8 +2,9 @@
 <img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/bb66bcd2d56ca989f1324b39e11a94dd81c0b7b4/69-eye-outline%20(1).gif" width="100px" height="100px">
 </p>
 <h1 align="center">Hey! 👋 I'm Moayed</h1>
-<h3 align="center" color="#FFB500">A passionate software developer</h3>
-
+```dif
+! <h3 align="center" color=">A passionate software developer</h3>
+```
 - 🔭 I’m currently working on my **Python Course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**

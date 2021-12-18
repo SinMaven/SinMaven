@@ -124,7 +124,8 @@ HTML                     2 repos             █░░░░░░░░░░�
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moayed-ellah&layout=compact&theme=dark)](https://github.com/Moayed-ellah/github-readme-stats)
 
 
 

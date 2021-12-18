@@ -124,7 +124,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 </p>
 
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moayed-ellah)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moayed-ellah&repo=github-readme-stats)](https://github.com/Moayed-ellah/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 
 

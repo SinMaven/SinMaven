@@ -13,7 +13,7 @@
 
 - Email: **moayedellahcode@gmail.com**
 
-- **I like reading, learning Japanese and playin video games**
+- **I like reading, learning Spanish and playing video games**
 
 <!--START_SECTION:waka-->
  <hr>

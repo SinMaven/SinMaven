@@ -3,13 +3,13 @@
 # &emsp; Hey!
 
 &emsp;I'm a front-end developer!
-&emsp;
+
 &emsp;I am 24 years old, I live and work in Russia Crimea Evpatoria.
-&emsp;
+
 &emsp;I've been doing IT since I was 16, I've been creating websites for 3 years, now I'm actively studying game development and game design. 
-&emsp;
+
 &emsp;I also study Python and write bots for Telegram
-&emsp;
+
 &emsp;If you want you can visit my [portfolio](https://b4dcat404.github.io/)
 
 ## About me

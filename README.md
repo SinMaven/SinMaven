@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/" width="300px" align="right">
+<img src="https://media.giphy.com/media/3o6ggbCzAotIx43ey4/giphy.gif" width="300px" align="right">
 
 - 🌎 I'm from Russia / Crimea
 - 👨🏻‍💻 Love programming and gaming

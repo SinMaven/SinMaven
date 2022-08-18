@@ -1,105 +1,45 @@
-<p align="center">
-<img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/bb66bcd2d56ca989f1324b39e11a94dd81c0b7b4/69-eye-outline%20(1).gif" width="100px" height="100px">
-</p>
-<h1 align="center">Hey! 👋 I'm Moayed</h1>
+# My Resume
 
-<h3 align="center">A passionate software developer</h3>
-             
-- I’m currently working on my **Javascript library**
+Hey there, I am John. I'm a Graphic Designer with 7 years of experience. In addition to that I have a great UI/UX knowledge and worked with various projects and startups.
 
-- learning **Python, Ruby and React**
+[About Me](https://www.notion.so/About-Me-d987a7441c064fcaa22b250870128c5d)
 
-- I’m looking to collaborate on **Game development or software engineering**
+[Projects](https://www.notion.so/Projects-5a4ca6c24eda4efa9df042ba6c836da0)
 
-- Email: **moayedellahcode@gmail.com**
+[Education](https://www.notion.so/Education-81ce62eb50dd4a219617bdd8055f4b1a)
 
-- **I like reading, learning Spanish and playing video games**
+[Contact](https://www.notion.so/Contact-5dfb80db26034efbbd1f424c12a01266)
 
-<!--START_SECTION:waka-->
- <hr>
-<p align="center">
-<img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/ab89f2afe7e269fcc5c17ab8de149df0a65156a5/45-clock-time-outline.gif" width="100px" height="100px">
-</p>
+![face-.png](My%20Resume%203b3948b82156458a897ee7ceee12ad34/face-.png)
 
-**I'm a Night owl** 
+Use this space to generally express yourself, your bold characteristics.
 
-```text
-Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.93% 
-Evening    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-Night      137 commits    ██████████░░░░░░░░░░░░░░░   42.41%
+Keep it simple and professional - tell them about your hobbies and interests. This will help them to understand a general summary of you. They'll get to know about you down the pages so try to keep this short.
 
-```
-**I'm Most Productive on Thursday** 
+<aside>
+📞 +44 000 00 000
 
-```text
-Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
-Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-Thursday     80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
-Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
+</aside>
 
-```
+<aside>
+📩 example@email.com
 
+</aside>
 
-**This Week I Spent My Time On** 
+[Projects](https://www.notion.so/96216d26206e4fc38ddff40bf14fea97)
 
-```text
-Time Zone: Europe/London
+---
 
-Programming Languages: 
-Python                   16 hrs 14 mins      ███████████████████░░░░░░   78.85% 
-Other                    3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
-VimL                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+[Tools](https://www.notion.so/06c612398a7c420096656c308633346c)
 
-Editors: 
-Vim                      16 hrs 59 mins      ████████████████████░░░░░   82.5% 
-Zsh                      3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.5%
+---
 
-Projects: 
-High-Frequency-Crypto    16 hrs 20 mins      ███████████████████░░░░░░   79.29% 
-Unknown Project          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
-Terminal                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
-Arbitrage-Crypto         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+[Skills](https://www.notion.so/d54b215b13b64eb795f1c507524b0304)
 
-Operating System: 
-Linux                    20 hrs 36 mins      █████████████████████████   100.0%
+---
 
-```
+🐦 [Twitter](https://twitter.com/koxshik)
 
-**I Mostly Code in Python** 
+📸 [Instagram](https://instagram.com/koxshik)
 
-```text
-Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   35.48% 
-C++                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-R                        5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
-
-```
-
-
-<hr>
-<!--END_SECTION:waka-->
-<p align="center">
-<img src="https://github.com/Moayed-Ellah/Moayed-Ellah/blob/ecd0dbb040787fcc141b18efd30260a94f77af36/1144-woodpecker-outline.gif" width="100px" height="100px">
-</p>
-
-
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Moayed-Ellah&no-bg=true&theme=dark&count_private=true&hide_border=true&locale=en" /></p>
-
-[![](https://github-readme-stats.vercel.app/api?username=Moayed-Ellah&show_icons=tru&theme=dark&count_private=true&hide_border=true&locale=en)](https://github.com/Moayed-Ellah)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moayed-ellah&theme=dark&hide_border=true&locale=en)](https://github.com/Moayed-ellah/github-readme-streak-stats)
-
-
-
-
-
+🛒 [Gumroad](https://koxshik.gumroad.com)

@@ -1,6 +1,6 @@
 <img align="left" src="https://78.media.tumblr.com/240efac6cf85bfbc734baf3db4900082/tumblr_p91e6w6mYa1rnbw6mo1_1280.gif" width="20%"/>
 
-# Hey! <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
+# Hey!
 
 I'm a front-end developer!
 
@@ -11,7 +11,7 @@ I also study Python and write bots for Telegram
 
 If you want you can visit my [portfolio](https://b4dcat404.github.io/)
 
-## 👨🏻‍💻 About me
+## About me
 
 <br>
 

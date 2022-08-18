@@ -1,16 +1,16 @@
 <img align="left" src="https://78.media.tumblr.com/240efac6cf85bfbc734baf3db4900082/tumblr_p91e6w6mYa1rnbw6mo1_1280.gif" width="20%"/>
 
-# &nbsp; Hey!
+# &emsp; Hey!
 
-&nbsp;  I'm a front-end developer!
+&emsp;I'm a front-end developer!
 
-&nbsp;  I am 24 years old, I live and work in Russia Crimea Evpatoria.
+&emsp;I am 24 years old, I live and work in Russia Crimea Evpatoria.
 
-&nbsp;  I've been doing IT since I was 16, I've been creating websites for 3 years, now I'm actively studying game development and game design. 
+&emsp;I've been doing IT since I was 16, I've been creating websites for 3 years, now I'm actively studying game development and game design. 
 
-&nbsp;  I also study Python and write bots for Telegram
+&emsp;I also study Python and write bots for Telegram
 
-&nbsp;  If you want you can visit my [portfolio](https://b4dcat404.github.io/)
+&emsp;If you want you can visit my [portfolio](https://b4dcat404.github.io/)
 
 ## About me
 

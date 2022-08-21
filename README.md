@@ -51,28 +51,3 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=b4dcat404&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4dcat404&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<p align="center" > 
-  <i>Thanks for passing by</i><br><br>
-  <i>Feel free to connect with me</i><br><br>
-  <a href="https://twitter.com/b4dcat404" target="_blank">
-  <code><img alt="My Twitter" width="32" src="https://website-crimea.ru/wp-content/uploads/github/twitter.svg" /></code>
-</a>
-<a href="https://instagram.com/b4dcat404" target="_blank">
-<code><img alt="My Instagram" width="32" src="https://website-crimea.ru/wp-content/uploads/github/instagram.svg" /></code>
-</a>
-<a href="mailto:vitalii.redka.dev@gmail.com" target="_blank">
-<code><img alt="My Mail" width="32" src="https://website-crimea.ru/wp-content/uploads/github/gmail.svg" /></code>
-</a>
-</p>

@@ -12,29 +12,14 @@
   <img src="https://media.giphy.com/media/l3vR6qtfmMd8NZfP2/giphy.gif"/>
 </p>
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
 ```
+
+</p>
+</details>

@@ -76,6 +76,3 @@
 <code><img alt="My Mail" width="32" src="https://website-crimea.ru/wp-content/uploads/github/gmail.svg" /></code>
 </a>
 </p>
-------
-Credit: [username](https://github.com/b4dcat404)
-Last Edited: 11/02/2022

@@ -8,15 +8,10 @@
 <br>
 
 ## About me
-<p align="left">
-  <img src="https://media.giphy.com/media/l3vR6qtfmMd8NZfP2/giphy.gif"/>
-</p>
-
-<img src ="https://gpvc.arturio.dev/Tahanima">
 
 <table>
   <tr>
-    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
+    <td><img src="https://media.giphy.com/media/l3vR6qtfmMd8NZfP2/giphy.gif"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>

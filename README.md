@@ -14,11 +14,6 @@
 
 <p align="right">
   
-  Some basic Git commands are:
-  ```
-  git status
-  git add
-  git commit
-  ```
+  `Some basic Git commands are:`
   
  </p>

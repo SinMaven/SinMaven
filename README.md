@@ -1,31 +1,75 @@
-<img align="left" src="https://78.media.tumblr.com/240efac6cf85bfbc734baf3db4900082/tumblr_p91e6w6mYa1rnbw6mo1_1280.gif" width="20%"/>
+<h1 align="center"><project-name></h1>
 
-# &nbsp; Hey!
+<p align="center"><project-description></p>
 
-&emsp;I'm a front-end developer!
+## Links
 
-&emsp;I am 24 years old, I live and work in Russia Crimea Evpatoria.
+- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
 
-&emsp;I've been doing IT since I was 16, I've been creating websites for 3 years 
+- [Live](<Homepage url> "Live View")
 
-&emsp;I also study Python and write bots for Telegram
+- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
 
-&emsp;If you want you can visit my [portfolio](https://b4dcat404.github.io/)
+- [API](<API Link> "API")
 
-<br>
-<br>
-<br>
+## Screenshots
 
-## &nbsp; About me
+![Home Page](/screenshots/1.png "Home Page")
 
-<br>
+![](/screenshots/2.png)
 
-<img src="https://media.giphy.com/media/3o6ggbCzAotIx43ey4/giphy.gif" width="200px" align="right">
+![](/screenshots/3.png)
 
-- 🌎 I'm from Russia / Crimea
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 I like to learn something new
-- 💭 I dream of developing the IT sector in my region
-- 📧 Reach me via vitalii.redka.dev@gmail.com
+## Available Commands
 
-<br>
+In the project directory, you can run:
+
+### `npm start" : "react-scripts start"`,
+
+The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+### `"npm run build": "react-scripts build"`,
+
+Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
+
+### `"npm run test": "react-scripts test"`,
+
+Launches the test runner in the interactive watch mode.
+
+### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
+
+For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
+
+### `"serve": "node server"`
+
+For running the server file on you can use this command.
+
+### `npm run serve`
+
+## Built With
+
+- JavaScript
+- Node
+- NPM
+- Webpack
+- HTML
+- CSS
+
+## Future Updates
+
+- [ ] Reliable Storage
+
+## Author
+
+**Rohit Jain**
+
+- [Profile](https://github.com/rohit19060 "Rohit jain")
+- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
+- [Website](https://kingtechnologies.in "Welcome")
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!

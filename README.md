@@ -1,26 +1,18 @@
-<h1 align="center">~Hola~<img src="https://cdn3.emoji.gg/emojis/1757-welcomehat.png" width="40px"/></h1> 
 <p align="center">
-  <img src="https://media.giphy.com/media/iiJ870TcI3PZKxatzS/giphy.gif"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thu08xix769yg9vce7dvduagk&cover_image=true&theme=novatorem&show_offline=false&background_color=f9f5e7&interchange=false&bar_color=a7727d&bar_color_cover=false" alt="Spotify playing" />
 </p>
 
-<br>
-<br>
+### Yo! 👋
 
-## About me
+I'm a music-obsessed developer who enjoys writing code, drinking coffee, and occasionally practicing interpretive dance moves in the shower.
 
-<table>
-  <tr>
-    <td><img src="https://media.giphy.com/media/d6Jh5xpKM7yXmUak8C/giphy.gif"></td>
-    <td>
-      <ul>
-        <li>Hey there, I am <strong>Moayed</strong></li>
-        <li>I am a computer science undergraduate</em>
-        <li>I have a <a href="https://dev.to/moayedellah">personal blog</a> where you can find a lot of quality beginner friendly tutorials</li>
-      </ul>
-      <h4>Connect with me:</h4>
-      <a href="mailto:moayedellahcode@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
-      <a href="https://Moayed-Ellah.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-      <a href="https://www.linkedin.com/in/moayedellah/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
-    </td>
-  </tr>
-</table>
+- 🎶 Currently spinning: [Spotify](https://open.spotify.com/user/thu08xix769yg9vce7dvduagk?si=H_T9q3huSqqg0tQ5y5Sn5g)
+- 🤖 Working on: ReactJS, NodeJS, and the secret to cloning myself so I can work on even more projects
+- 🚀 Next mission: Launching a startup that combines machine learning with the healing power of cat videos
+- 📫 How to reach me: [Email](mailto:youremail@example.com), [Twitter](https://twitter.com/yourhandlehere), or send a carrier pigeon (if it's friendly)
+
+Remember: always debug with a smile, and never underestimate the power of a good playlist!
+
+<p align="center">
+  crafting the future in my backyard
+</p>

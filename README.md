@@ -14,5 +14,5 @@ I'm a music-obsessed developer who enjoys writing code, drinking coffee, and occ
 *Ah, if you see me talking to myself while coding, don't worry, I'm just having a staff meeting.*
 
 <p align="center">
-  crafting the future in my backyard
+  Crafting the future in my backyard
 </p>

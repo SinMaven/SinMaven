@@ -16,3 +16,7 @@ I'm a music-obsessed developer who enjoys writing code, drinking coffee, and occ
 <p align="center">
   Crafting the future in my backyard
 </p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/moayed"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=moayed&button_colour=3C6255&font_colour=EAE7B1&font_family=Lato&outline_colour=EAE7B1&coffee_colour=EAE7B1" /></a>
+</p>

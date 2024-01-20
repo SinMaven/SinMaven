@@ -17,7 +17,7 @@ I'm a music-obsessed developer who enjoys writing code, drinking coffee, and occ
   Crafting the future in my backyard
 </p>
 
-[Check out the Replit preview](https://replit.com/@your-username/your-replit-name?v=1)
+[![Run on Replit](https://replit.com/badge/github/your-username/your-repo)](https://replit.com/@your-username/your-replit-name)
 
 
 <p align="center">

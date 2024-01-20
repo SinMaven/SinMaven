@@ -17,8 +17,8 @@ I'm a music-obsessed developer who enjoys writing code, drinking coffee, and occ
   Crafting the future in my backyard
 </p>
 
-[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
-<iframe src="https://codepen.io/your-username/embed/your-codepen-id/?height=265&theme-id=light" frameBorder="0" width="100%" height="265"></iframe>
+[Check out the Replit preview](https://replit.com/@your-username/your-replit-name?v=1)
+
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/moayed"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=moayed&button_colour=3C6255&font_colour=EAE7B1&font_family=Lato&outline_colour=EAE7B1&coffee_colour=EAE7B1" /></a>

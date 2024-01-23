@@ -34,7 +34,7 @@ def get_tils():
    til_md = ""
 
    for i in dt_til:
-       til_md += "\n" + i[0] + ' ' + i[1] + i[2]        
+       til_md += i[0] + ' ' + i[1] + i[2]        
 
    print('~' * 50)
    print('til_md upto 3', til_md)

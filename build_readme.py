@@ -24,22 +24,24 @@ def get_tils():
 
     page = requests.get(til_readme)
     all_text = page.text
-    search_re = re.findall( r'(\*+).(\[.*?\])(\(.*?\)).?-(.+)', all_text, re.M|re.I)
+    search_re = re.findall(r'(\*+).(\[.*?\])(\(.*?\)).?-(.+)', all_text, re.M | re.I)
     dt_til = sorted(search_re, key=lambda search_re: search_re[3], reverse=True)[:3]
-    
+
     print('~' * 50)
     print('dt_til upto 3', dt_til)
     print('~' * 50)
-        
-    til_md = ""
-    
+
+    til_md = "| title | Description |\n| --- | --- |"
+
     for i in dt_til:
-        til_md += "\n" + i[0] + ' ' + i[1] + i[2]         
+        title = i[1].lstrip('*').strip()
+        description = i[3].strip()
+        til_md += f"\n| `{title}` | {description} |"
 
     print('~' * 50)
     print('til_md upto 3', til_md)
     print('~' * 50)
-        
+
     return til_md
 
 def fetch_blog_entries():
@@ -53,30 +55,26 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
-
 if __name__ == "__main__":
-
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    
+
     entries = fetch_blog_entries()[:3]
     entries_md = "\n".join(
-        # ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
         ["* [{title}]({url})".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
     til_readme_contents = get_tils()
-    
+
     print('~' * 50)
     print('til_readme_contents', til_readme_contents)
     print('~' * 50)
-    
-    rewritten = replace_chunk(rewritten, "tilentries", til_readme_contents)    
+
+    rewritten = replace_chunk(rewritten, "tilentries", til_readme_contents)
 
     print('~' * 50)
     print('rewritten after getting tils', rewritten)
     print('~' * 50)
-    
-    
+
     readme.open("w").write(rewritten)

@@ -3,7 +3,7 @@
 ### Hey!
 
 I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
-![Keybase PGP](https://img.shields.io/keybase/pgp/:username?style=flat&labelColor=%23B7C4BA&color=%231E1E1E)
+
 [![views](https://komarev.com/ghpvc/?username=0xrinx&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/0xrinx)
 
 <br>

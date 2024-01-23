@@ -60,13 +60,12 @@ if __name__ == "__main__":
    readme_contents = readme.open().read()
 
    entries = fetch_blog_entries()[:3]
-   entries_md = "\n".join(
+   entries_md = "<br>".join(
        # ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
        ["~ [{title}]({url})".format(**entry) for entry in entries]
    )
    rewritten = replace_chunk(readme_contents, "blog", entries_md)
-
-   entries_md += "<br>"
+   
    til_readme_contents = get_tils()
 
    print('~' * 50)

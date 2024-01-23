@@ -3,8 +3,8 @@
 ### Hey!
 
 I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
-![Keybase PGP](https://img.shields.io/keybase/pgp/:0xRinx)
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=0xrinx&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/0xrinx)
+![Keybase PGP](https://img.shields.io/keybase/pgp/:username?style=flat&labelColor=%23B7C4BA&color=%231E1E1E)
+[![views](https://komarev.com/ghpvc/?username=0xrinx&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/0xrinx)
 
 <br>
 

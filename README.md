@@ -12,10 +12,7 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 ### On my blog
 | **Projects** | **Blog** |
-| --- | --- |
-<!-- blog starts -->
-|| * [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://0xrinx.is-cool.dev/first/) |
-<!-- blog ends -->
+| --- | --- | <!-- blog starts --><!-- blog ends -->
 
 I'm actively maintaining packages for [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z). Check out my dotfiles [here](https://github.com/orhun/dotfiles).
 

@@ -8,17 +8,11 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 <br>
 
-<table>
-  <tr>
-
 ---
 
 ### On my blog
 <!-- blog starts -->
-* [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://0xrinx.is-cool.dev/first/)
 <!-- blog ends -->
-  </tr>
-</table>
 
 ---
 

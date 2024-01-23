@@ -12,4 +12,4 @@ I'm **Moayed**, a Rust aficionado with a strong passion for all things open sour
 ### On my blog
 |     **Projects**     |      **Blog**        |
 | :-------------------- | :-------------------- |
-|                      |<!-- blog starts -->• [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://0xrinx.is-cool.dev/first/)<br>• [second post in here](https://0xrinx.is-cool.dev/second/)<!-- blog ends --> 
+|<!--START_SECTION:activity--><!--END_SECTION:activity-->|<!-- blog starts -->• [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://0xrinx.is-cool.dev/first/)<br>• [second post in here](https://0xrinx.is-cool.dev/second/)<!-- blog ends --> 

@@ -7,6 +7,7 @@ I'm **Moayed**, a Rust aficionado with a strong passion for all things open sour
 [![views](https://komarev.com/ghpvc/?username=0xrinx&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/0xrinx)
 
 <br>
+
 ---
 ### On my blog
 |     **Projects**     |      **Blog**        |

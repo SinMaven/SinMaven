@@ -8,7 +8,7 @@ import git
 
 root = pathlib.Path(__file__).parent.resolve()
 
-def replace_chunk(content, marker, chunk, inline=False):
+def replace_chunk(content, marker, chunk, inline=True):
    r = re.compile(
        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
        re.DOTALL,
@@ -34,7 +34,7 @@ def get_tils():
    til_md = ""
 
    for i in dt_til:
-       til_md += i[0] + ' ' + i[1] + i[2]        
+       til_md += "\n" + i[0] + ' ' + i[1] + i[2]        
 
    print('~' * 50)
    print('til_md upto 3', til_md)
@@ -61,7 +61,6 @@ if __name__ == "__main__":
 
    entries = fetch_blog_entries()[:3]
    entries_md = "<br>".join(
-       # ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
        ["~ [{title}]({url})".format(**entry) for entry in entries]
    )
    rewritten = replace_chunk(readme_contents, "blog", entries_md)

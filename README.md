@@ -8,10 +8,18 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 <br>
 
-### Latest blog posts
+<table>
+  <tr>
 
-<!-- blog start -->
-<!-- blog end -->
+---
+
+### On my blog
+<!-- blog starts -->
+<!-- blog ends -->
+  </tr>
+</table>
+
+---
 
 I'm actively maintaining packages for [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z). Check out my dotfiles [here](https://github.com/orhun/dotfiles).
 

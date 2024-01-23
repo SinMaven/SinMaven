@@ -1,0 +1,28 @@
+{
+  "name": "@codepunkt/github-readme",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/build-readme.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepunkt/codepunkt.git"
+  },
+  "author": "Christoph Werner <christoph@codepunkt.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codepunkt/codepunkt/issues"
+  },
+  "scripts": {
+    "build": "node src/build-readme.js"
+  },
+  "homepage": "https://github.com/codepunkt/codepunkt#readme",
+  "dependencies": {
+    "mdast-zone": "^4.0.1",
+    "remark": "^13.0.0",
+    "rss-parser": "^3.10.0",
+    "to-vfile": "^6.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

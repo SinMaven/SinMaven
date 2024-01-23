@@ -66,7 +66,7 @@ if __name__ == "__main__":
    )
    rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
-   entries_md += "\n"
+   entries_md += "<br>"
    til_readme_contents = get_tils()
 
    print('~' * 50)

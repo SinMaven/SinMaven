@@ -13,6 +13,6 @@ I'm **Moayed**, a kernel tinkere and open source lover. One day will know how to
 ### Some of me
 |     **Projects**     |      **Blog**        |
 | :-------------------- | :-------------------- |
-| ``` ``` |<!-- blog starts --><!-- blog ends --> 
+| ``` ``` |<!-- blog starts -->• [Setting up a packaging environment for Alpine Linux (introducing alpkg)](https://0xrinx.is-cool.dev/first/)<br>• [second post in here](https://0xrinx.is-cool.dev/second/)<!-- blog ends --> 
 
 **~** [_Rinx-is-cool_](https://0xRinx.is-cool.dev)

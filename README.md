@@ -1,10 +1,15 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<center>
 
-### Hey!
+```asm                 
+                            ░█████╗░██╗░░██╗██████╗░██╗███╗░░██╗██╗░░██╗    jinx@jinx
+                            ██╔══██╗╚██╗██╔╝██╔══██╗██║████╗░██║╚██╗██╔╝    OS: Arch
+                            ██║░░██║░╚███╔╝░██████╔╝██║██╔██╗██║░╚███╔╝░    Packages: 1162
+                            ██║░░██║░██╔██╗░██╔══██╗██║██║╚████║░██╔██╗░    Shell: zsh
+                            ╚█████╔╝██╔╝╚██╗██║░░██║██║██║░╚███║██╔╝╚██╗    Terminal: alacritty
+                            ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝    Memory: 1752MiB / 15734MiB
+```
 
-I'm **Moayed**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools and I live in the terminal.
-
-[![views](https://komarev.com/ghpvc/?username=0xrinx&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/0xrinx)
+</center>
 
 <br>
 

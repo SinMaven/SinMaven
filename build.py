@@ -9,7 +9,7 @@ from python_graphql_client import GraphqlClient
 
 
 USERNAME = "0xRinx"
-GITHUB_TOKEN = os.environ.get("API_TOKEN", "")
+GITHUB_TOKEN = os.environ.get("RINX_TOKEN", "")
 
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 

@@ -28,7 +28,7 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Update README
       env:
-        API_TOKEN: ${{ secrets.RINX_TOKEN }}
+        RINX_TOKEN: ${{ secrets.RINX_TOKEN }}
       run: |-
         python build.py
         cat README.md

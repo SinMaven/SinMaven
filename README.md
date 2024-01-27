@@ -1,6 +1,6 @@
 ### Hey
 
-I'm **Moayed**, a kernel tinkerer and open source lover. One day will know how to close vim.
+I'm **Moayed**, a kernel tinkerer and open source lover. I managed to teach my cat binary code, now he's hovering in mid-air.
 
 ### Some of me
 |     **Projects**     |      **Blog**        |

@@ -1,6 +1,6 @@
 ### Hey
 
-I'm **Moayed**, a kernel tinkere and open source lover. One day will know how to close vim.
+I'm **Moayed**, a kernel tinkerer and open source lover. One day will know how to close vim.
 
 ### Some of me
 |     **Projects**     |      **Blog**        |

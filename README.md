@@ -9,4 +9,4 @@ I'm **Moayed**, a kernel tinkerer and open source lover. I managed to teach my c
 
 currently working on projects that starts with _for educational purposes only_ and ends with me politely asking a server for its password
 
-**~** [_Rinx-is-cool_](https://0xRinx.is-cool.dev)
+**~** [_Rinx-is-cool_](https://0xrinx.github.io/)

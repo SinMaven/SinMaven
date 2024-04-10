@@ -5,7 +5,7 @@ I'm **Moayed**, a kernel tinkerer and open source lover. I managed to teach my c
 ### Some of me
 |     **Projects**     |      **Blog**        |
 | :-------------------- | :-------------------- |
-| ![UL](https://github.com/0xRinx/0xRinx/assets/96206184/3d80b434-a459-4943-bde9-ccada98b2a8c) |<!-- blog starts -->• [About](https://0xrinx.github.io/about/)<!-- blog ends --> 
+| <img src="https://github.com/0xRinx/0xRinx/assets/96206184/9c1171c9-8962-40ed-8e41-8fae08cd43b8" width="800"> |<!-- blog starts -->• [About](https://0xrinx.github.io/about/)<!-- blog ends --> 
 
 currently working on projects that starts with _for educational purposes only_ and ends with me politely asking a server for its password
 

@@ -1,33 +1,12 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+### Hey
 
-### Hey!
+I'm **Moayed**, a kernel tinkerer and open source lover. I managed to teach my cat binary code, now he's hovering in mid-air.
 
-I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
+### Some of me
+|     **Projects**     |      **Blog**        |
+| :-------------------- | :-------------------- |
+| ![UL](https://github.com/0xRinx/0xRinx/assets/96206184/3d80b434-a459-4943-bde9-ccada98b2a8c) |<!-- blog starts --><!-- blog ends --> 
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
+currently working on projects that starts with _for educational purposes only_ and ends with me politely asking a server for its password
 
-<br>
-
-Here is a list of my **personal projects**:
-
-| **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Bash**, **Zig**, **C**, **Go**, **Python**, **Kotlin**, **Java**, **JS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <!-- {} starts -->{}<!-- {} ends --> |
-
-**\>\_** Also, I am actively working on [Ratatui](https://ratatui.rs/) (a Rust library for creating TUIs) - where we work towards building the future of the terminal!
-
-I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z) and [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) btw. Check out my **dotfiles** [here](https://github.com/orhun/dotfiles). I regularly write [blog posts](https://blog.orhun.dev) about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/orhundev)/[Mastodon](https://fosstodon.org/@orhun). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/orhunp/).
-
-If you want to support my work, consider [sponsoring me](https://github.com/sponsors/orhun)! 💖
-
-**~** [_orhun.dev_](https://orhun.dev/)
-
-✨ Sponsored by:
-
-<a href="https://terminaltrove.com/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
-</a>
-
-<a href="https://rawkode.academy/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/rawkode_academy.png" alt="Rawkode Academy" height="40">
-</a>
+**~** [_Rinx-is-cool_](https://0xrinx.github.io/)

@@ -19,7 +19,7 @@ def replace_chunk(content, marker, chunk, inline=True):
    return r.sub(chunk, content)
 
 def get_tils():
-   til_readme = "https://raw.githubusercontent.com/0xRinx/TIL/master/README.md"
+   til_readme = "https://raw.githubusercontent.com/SinMaven/TIL/master/README.md"
    r = requests.get(til_readme)
 
    page = requests.get(til_readme)
@@ -43,7 +43,7 @@ def get_tils():
    return til_md
 
 def fetch_blog_entries():
-   entries = feedparser.parse("https://0xrinx.github.io//rss.xml")["entries"]
+   entries = feedparser.parse("https://SinMaven.github.io//rss.xml")["entries"]
    return [
        {
            "title": entry["title"],

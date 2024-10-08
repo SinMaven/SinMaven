@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
    entries = fetch_blog_entries()[:3]
    entries_md = "<br>".join(
-       ["• [{title}]({url})".format(**entry) for entry in entries]
+       [" • [{title}]({url})".format(**entry) for entry in entries]
    )
    rewritten = replace_chunk(readme_contents, "blog", entries_md)
    

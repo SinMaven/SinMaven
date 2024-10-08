@@ -43,40 +43,50 @@ def get_tils():
    return til_md
 
 def fetch_blog_entries():
-   entries = feedparser.parse("https://SinMaven.github.io/rss.xml")["entries"]
-   return [
-       {
-           "title": entry["title"],
-           "url": entry["link"].split("#")[0],
-           "published": entry["published"].split("T")[0],
-       }
-       for entry in entries
-   ]
-
+    """Fetch the latest blog entries from the RSS feed."""
+    entries = feedparser.parse("https://SinMaven.github.io/rss.xml")["entries"]
+    return [
+        {
+            "title": entry["title"],
+            "url": entry["link"].split("#")[0],
+            "published": entry["published"].split("T")[0],
+        }
+        for entry in entries
+    ]
 
 if __name__ == "__main__":
+    readme_path = root / "README.md"
+    
+    # Read the current content of the README
+    with open(readme_path, "r") as file:
+        readme_contents = file.read()
 
-   readme = root / "README.md"
-   readme_contents = readme.open().read()
+    # Fetch and format the latest blog entries
+    entries = fetch_blog_entries()[:3]
+    entries_md = "<br>".join(
+        [f"• [{entry['title']}]({entry['url']})" for entry in entries]
+    )
 
-   entries = fetch_blog_entries()[:3]
-   entries_md = "<br>".join(
-       [f"• [{title}]({url})".format(**entry) for entry in entries]
-   )
-   entries_md = "\n" + entries_md
-   rewritten = replace_chunk(readme_contents, "blog", entries_md)
-   
-   til_readme_contents = get_tils()
+    # Ensure a single new line before inserting blog posts
+    entries_md = "\n" + entries_md  # Add a new line before blog posts
 
-   print('~' * 50)
-   print('til_readme_contents', til_readme_contents)
-   print('~' * 50)
+    # Replace the blog section in the README
+    rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
-   rewritten = replace_chunk(rewritten, "tilentries", til_readme_contents)   
+    # Fetch and format the latest TIL entries
+    til_readme_contents = get_tils()
 
-   print('~' * 50)
-   print('rewritten after getting tils', rewritten)
-   print('~' * 50)
+    print('~' * 50)
+    print('TIL README contents:', til_readme_contents)
+    print('~' * 50)
 
+    # Replace the TIL entries in the README
+    rewritten = replace_chunk(rewritten, "tilentries", til_readme_contents)
 
-   readme.open("w").write(rewritten)
+    print('~' * 50)
+    print('Rewritten content after updating TILs:', rewritten)
+    print('~' * 50)
+
+    # Write the updated content back to the README
+    with open(readme_path, "w") as file:
+        file.write(rewritten)

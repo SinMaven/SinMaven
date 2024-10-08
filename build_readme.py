@@ -1,7 +1,7 @@
 import feedparser
-import requests
 import pathlib
 import re
+import requests
 
 # Set the root directory for the script
 root = pathlib.Path(__file__).parent.resolve()

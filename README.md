@@ -5,7 +5,7 @@ I'm **Moayed**, a kernel tinkerer and open source lover. I managed to teach my c
 ### Recent Blog Posts
 
 <!-- blog starts -->
-• [Moayed ellah](https://SinMaven.github.io/build/blog/about.html)<br>• [0x2. ── The Most Overrated Line of Code](https://SinMaven.github.io/build/blog/C-what-you-dont-see/hello-world.html)<br>• [0x1. ── C what you don't see](https://SinMaven.github.io/build/blog/C-what-you-dont-see/intro.html)<!-- blog ends --> 
+• [Moayed ellah](https://SinMaven.github.io/build/blog/about.html)<br>• [1x0. ── The Secret Life of Backdoors](https://SinMaven.github.io/build/blog/Backdoor-blueprint/intro.html)<br>• [0x2. ── The Most Overrated Line of Code](https://SinMaven.github.io/build/blog/C-what-you-dont-see/hello-world.html)<!-- blog ends --> 
 
 currently working on projects that starts with _for educational purposes only_ and ends with me politely asking a server for its password
 

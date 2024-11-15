@@ -9,4 +9,4 @@ I'm **SinMaven**, a kernel tinkerer and open source lover. I managed to teach my
 
 currently working on projects that starts with _for educational purposes only_ and ends with me politely asking a server for its password
 
-**~** [_SinMaven-is-cool_](https://sinmaven.github.io/)
+**~** [_SinMaven-is-cool_](https://sinmaven.vercel.app)

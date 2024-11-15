@@ -44,7 +44,7 @@ def get_tils():
 
 def fetch_blog_entries():
     """Fetch the latest blog entries from the RSS feed."""
-    entries = feedparser.parse("https://SinMaven.github.io/rss.xml")["entries"]
+    entries = feedparser.parse("https://sinmaven.vercel.app/rss.xml")["entries"]
     return [
         {
             "title": entry["title"],

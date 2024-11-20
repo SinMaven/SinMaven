@@ -5,7 +5,7 @@ I'm **SinMaven**, a kernel tinkerer and open source lover. I managed to teach my
 ### Recent Blog Posts
 
 <!-- blog starts -->
-• [[HWS-01] ── The Secret Life of Backdoors](https://sinmaven.vercel.app/blog/hardware/hws-01/)<!-- blog ends --> 
+• [Raise the Flag So I Can Capture It](https://sinmaven.vercel.app/blog/writeup/writeup-methods/)<!-- blog ends --> 
 
 currently working on projects that starts with _for educational purposes only_ and ends with me politely asking a server for its password
 

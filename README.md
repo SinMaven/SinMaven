@@ -1,12 +1,3 @@
-### Welcome to My Playground
+<sub><samp>I break stuff for a living. Well, more specifically, I do penetration testing and security research for startups and companies who want to know where their weak spots are before the bad guys find them. Been doing this my own way for a while now.</sub></samp>
 
-I'm **SinMaven**, a kernel tinkerer and open source lover. I managed to teach my cat binary code, now he's hovering in mid-air.
-
-### Recent Blog Posts
-
-<!-- blog starts -->
-• [Linux and some users](https://sinmaven.vercel.app/blog/linux/linux-and-users/)<br>• [Raise the Flag So I Can Capture It](https://sinmaven.vercel.app/blog/writeup/writeup-methods/)<!-- blog ends --> 
-
-currently working on projects that starts with _for educational purposes only_ and ends with me politely asking a server for its password
-
-**~** [_SinMaven-is-cool_](https://sinmaven.com)
+<sub><samp>~ [_SinMaven-is-cool_](https://sinmaven.com)</samp></sub>
